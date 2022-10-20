@@ -30,7 +30,7 @@ const questions = [
     type: 'inpute' ,
     name: 'Liscense' ,
     Message: '?' ,
-    choices: ['GPL 3.0', 'BSD 3', 'APACHE 2.0', 'MIT', 'None' ,] 
+    choices: ['BSD 3', 'APACHE 2.0', 'MIT', 'None' ,] 
 },
 {
     type: 'inpute' ,
